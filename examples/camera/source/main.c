@@ -36,6 +36,7 @@ int _main(void) {
 	initLibc();
 	initNetwork();
 	initCamera();
+	int haha; 
 
 
 	// Connect to server and send message
